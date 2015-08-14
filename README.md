@@ -1,2 +1,2 @@
 # Krish
-my proograms
+my programs
